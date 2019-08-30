@@ -1,6 +1,19 @@
-# Profil de développeur Pix
+# Description du poste
 
 Pix est un projet public en plein essor qui a vocation à devenir le standard de la certification des compétences numériques. Pour répondre à cette perspective, nous consolidons nos équipes et recherchons notamment des passionnés du Web souhaitant mettre leurs talents au service de l’intérêt général.
+
+## Missions
+
+En tant que développeur·se, vous interviendrez sur l’ensemble des activités inhérentes à la fabrication et la mise en oeuvre d’un service public numérique accessible au plus grand nombre : 
+
+  * étude et conception avec les différents corps de métiers (resp. pédagogiques / déploiement / partenariats / support UX / UI, autres équipes de développement, etc.),
+  * participation et animation des rituels agiles (daily meetings, rétros, etc.), 
+  * développement en équipe selon les bonnes pratiques d’artisanat logiciel (TDD, pair/mob programming, reviews, etc.)
+  * administration et aide à l'assistance utilisateur ou aux personnes de l’organisation,
+  * recrutement, etc.
+
+
+## Profil recherché
 
 Nous pensons que l’équilibre de l’équipe et le bien-être des personnes qui la composent est l’une des clés pour accomplir durablement de grandes choses. Cette conviction nous pousse à chercher un profil avec les caractéristiques suivantes, en privilégiant les premières :
 
