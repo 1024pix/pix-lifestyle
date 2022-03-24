@@ -41,7 +41,7 @@ Connaissances :
 - La maîtrise d’un framework: Spark, Pandas ...
 - La maîtrise du SQL
 - Une bonne connaissance de Git et des outils d’intégration et de déploiement continue : création de CI/CD, docker, etc..
-- Maîtrise des langages de programmations : Scala, Python. Le JS serait un plus
+- Maîtrise des langages de programmation : Scala, Python. Le JS serait un plus
 - Connaissances des systèmes d’exploitation : Unix, Linux
 - Connaissances des bases de données PGSQL, etc ...
 - Avoir une expérience dans la conception et l'implémentation et l'automatisation de pipelines de données
