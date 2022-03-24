@@ -25,7 +25,7 @@
 
 * Weekly meeting
   * Le weekly meeting est un point qui se déroule tous les lundis de 14h15 à 14h45, avec tous les gens de Pix.
-  * Le but est de partager, en un minimum de temps, un maximum d'information générales susceptibles d'intéresser le plus grand nombre, sur tous les sujets qui font la vie de Pix.
+  * Le but est de partager, en un minimum de temps, un maximum d'informations générales susceptibles d'intéresser le plus grand nombre, sur tous les sujets qui font la vie de Pix.
   * Cette réunion concerne tous les gens de Pix.
 
 * Dev Weekly meeting
