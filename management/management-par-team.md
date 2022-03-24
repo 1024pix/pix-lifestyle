@@ -1,20 +1,20 @@
 # Le management au sein d'une équipe Engineering Pix
 
-Les équipes du pôle Engineering Pix sont pour la plupart découpées en plusieurs rôles. Ces rôles assurent un suivi et un management liés à l'équipe et aux travails réguliers (ticket en cours, sujets techniques ou fonctionnels, etc.)
+Les équipes du pôle Engineering Pix sont, pour la plupart, découpées en plusieurs rôles. Ces rôles assurent un suivi et un management liés à l'équipe et aux travails réguliers (ticket en cours, sujets techniques ou fonctionnels, etc.)
 
 ## Les rôles au sein d'une équipes
 
 On peut mettre en avant 3 rôles : 
 - Product Owner (PO)
 - Lead Dev (LD)
-- Dev
+- Développeur/développeuse (dev)
 
 ### Product Owner 
 
 Le/la PO a pour responsabilité de :
 - porter la vision stratégique sur son scope fonctionnel en interne / externe → NSM, OKR, enjeux, opportunités, risques
 - définir les tactiques à mettre en œuvre pour la réaliser → roadmap, deadlines
-- prioriser l’opérationnel (fonc, tech, autre) de concert avec le reste de l'équipe et de toute l’organisation → product / sprint backlogs, US, tâches, estimations si nécessaire
+- prioriser l’opérationnel (fonctionnelle, technique ou autre) de concert avec le reste de l'équipe et de toute l’organisation → product / sprint backlogs, US, tâches, estimations si nécessaire
 - s’assurer qu’on livre le bon produit, au bon moment → validation fonctionnelle en RA et staging
 - comprendre le système, ses usages et son impact par rapport aux problématiques métier → BI / data analytics, panels utilisateurs, expérimentations, etc.
 - communiquer
@@ -62,17 +62,17 @@ Il/Elle participe à :
 ## Le management au sein de l'équipe
 
 ### Management des devs
-Le suivi des développeur(euse)s au sein d'une équipe se fait par le/la Lead dev.
+Le suivi des développeur(euse)s au sein d'une équipe se fait par le/la lead dev.
 
 Ce rôle (LD) assure régulièrement des points avec chaque membre de l'équipe.
 
 Ces points sont appelés O3 (pour One on One, ou 1:1) : durant 30 minutes environ, toutes les semaines ou toutes les deux semaines, le/la Lead Dev échange avec un(e) dev.
 
-Cet échange privilégié, ce temps consacré à la relation permet au dev de discuter de ce qui est important pour lui, de son état d’esprit ou de ses difficultés, professionnels ou personnels s’il choisit d’en parler, dans l’optique d’y apporter des solutions.
+Cet échange privilégié permet au dev de discuter de ce qui est important pour lui, de son état d’esprit ou de ses difficultés, professionnels ou personnels s’il choisit d’en parler, dans l’optique d’y apporter des solutions.
 
 ### Management des lead dev
 
-Le/la Lead dev est suivi par deux personnes, plus ou moins de manière formelle.
+Le/la lead dev est suivi par deux personnes, plus ou moins de manière formelle.
 
 Des échanges réguliers (toutes les semaines ou toutes les deux semaines) ont lieu entre le/la Lead Dev et le/la Product Owner.
 
@@ -80,7 +80,7 @@ Ces échanges permettent de discuter de l'état de l'équipe, de la roadmap, des
 
 Le/la Lead dev a aussi des O3 (pour One on One, ou 1:1) : durant 30 minutes environ, toutes les semaines ou toutes les deux semaines, le/la Lead Dev échange avec un(e) autre Lead Dev, un(e) VPO et un(e) CTO.
 
-Cet échange privilégié, ce temps consacré à la relation permet au Lead Dev de discuter de ce qui est important pour lui, de son état d’esprit ou de ses difficultés, professionnels ou personnels s’il choisit d’en parler, dans l’optique d’y apporter des solutions.
+Cet échange privilégié permet au Lead Dev de discuter de ce qui est important pour lui, de son état d’esprit ou de ses difficultés, professionnels ou personnels s’il choisit d’en parler, dans l’optique d’y apporter des solutions.
 
 
 ### Management des product owners
