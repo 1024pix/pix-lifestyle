@@ -4,7 +4,7 @@
 L’équipe « Accès » s’occupe de maintenir et faire évoluer les accès des utilisateurs et ressources des différents produits Pix. Que ce soit les accès de nos différents partenaires à nos plateformes, ou bien les évolutions des différents rôles des utilisateurs, les sujets qui touchent notre équipe sont variés. C’est l’équipe idéale si tu aimes avoir une vue d’ensemble de tous les produits développés.
 
 ## C’est qui la « team accès » ?
-C’est une Product Owner, une Lead Dev et cinq Développeur(euse)s dont les années d’expériences varient entre 1 et 10 ans.
+C’est une Product Owner, une Lead Dev et cinq Développeur(euse)s dont les années d’expérience varient entre 1 et 10 ans.
 
 ## Profil attendu
 Pour compléter nos compétences nous cherchons une personne qui sera sensible aux sujets suivant :
