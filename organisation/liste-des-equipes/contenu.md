@@ -8,7 +8,7 @@ Certaines épreuves sont implémentées par des simulateurs qui reproduisent des
 Au programme dans l’équipe Contenu :
 
 * Le développement de simulateurs pour les épreuves (A11Y, i18N, Responsive)
-* Outiller l’équipe contenus métier pour faciliter la création / maintenance du référentiel Européen des compétences numériques
+* Outiller l’équipe contenu métier pour faciliter la création / maintenance du référentiel Européen des compétences numériques
 * Mise à disposition du référentiel Européen des compétences numériques
 * Permettre la création de nouvelles modalités d’épreuves (en collaboration avec l'équipe xp d’éval)
 * L’équipe contenu est au contact de deux types d’utilisateurs :
