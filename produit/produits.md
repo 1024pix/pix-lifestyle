@@ -1,6 +1,6 @@
 # Les produits  
 
-Le site [Pix](pix.fr), en plus du site tout public, possèdent plusieurs plate-formes pour le bon fonctionnement de Pix et de ses certifications : 
+Le site [Pix](pix.fr), en plus du site tout public, possède plusieurs plate-formes pour le bon fonctionnement de Pix et de ses certifications : 
 
 * [Pix](pix.fr) est le site vitrine de Pix
 * [Pix App](app.pix.fr) est la plateforme principale de Pix. Elle permet à tous les utilisateurs Pix d'être évalué sur leurs compétences numériques, de progresser et enfin de se faire certifier.
