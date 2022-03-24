@@ -3,8 +3,8 @@
 Pix cherche actuellement :
 - [Un(e) CTO](cto.md)
 - [Un(e) Data Engineer](data-engineering.md)
-- - [Un(e) SRE](sre.md)
-- - [Un(e) développeur(euse) Full-stack JS](dev-full-stack.md) pour [les équipes](../organisation/equipes.md)
+- [Un(e) SRE](sre.md)
+- [Un(e) développeur(euse) Full-stack JS](dev-full-stack.md) pour [les équipes](../organisation/equipes.md)
 
 
 Nos offres sont aussi disponibles sur : 
