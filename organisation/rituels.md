@@ -12,7 +12,7 @@
 
 * Après-midi tech.
   * L'après-midi tech a lieu 1 mercredi sur 2, en alternance avec la démo, à partir de 14h00.
-  * Le but est de permettre à l'équipe de faire émerger des nouveaux standards d'équipes, améliorer l'outillage / le code ou de résorber de la dette techniques.
+  * Le but est de permettre à l'équipe de faire émerger de nouveaux standards d'équipes, améliorer l'outillage / le code ou de résorber de la dette technique.
   * Cette réunion concerne principalement les développeurs qui le souhaitent.
 
 * Démo
