@@ -38,7 +38,7 @@ Vos différentes missions seront :
   * Conception et mise en œuvre de l’architecture applicative et technique (infrastructure)
   * Sécurisation de l’accès aux données collectées par la plateforme et de leur usage
   * Mise en conformité avec les règles et bonnes pratiques applicables en termes d’accessibilité numérique, de performances, de mobilité (RWD), de qualité du code et de développement d’un logiciel libre grand public à échelle nationale
-  * Gestion des relations avec les prestataires techniques et suivi des livraisons, en lien avec le responsible administratif et financier
+  * Gestion des relations avec les prestataires techniques et suivi des livraisons, en lien avec le responsable administratif et financier
   * Participer au processus d’élaboration des roadmaps et à leur bon déroulement
   * Savoir être un facilitateur et améliorer la fluidité des relations entre les différentes équipes (tech, produit, métier)
   * Aider les équipes à piloter leur delivery
