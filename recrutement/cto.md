@@ -60,7 +60,7 @@ Nous pensons que l’équilibre de l’équipe et le bien-être des personnes qu
 * dans la conciliation plutôt que dans la négociation
 
 Nous serons attentifs à ce que cette personne :
-* soit une agiliste convaincu
+* soit une agiliste convaincue
 * puisse être résiliente au flou, au changement, à l’imprévisible
 * possède une grande rigueur opérationnelle
 * ait forte capacité d’écoute, de dialogue, de synthèse et de construction d’œuvres communes
