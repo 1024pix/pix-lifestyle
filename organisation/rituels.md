@@ -30,7 +30,7 @@
 
 * Dev Weekly meeting
     * Le Engineering weekly meeting est un point qui se déroule tous les lundis de 10h30 à 11h, avec toutes les personnes du pôle Engineering de Pix.
-    * Le but est de partager, en un minimum de temps, un maximum d'information générales susceptibles d'intéresser le plus grand nombre.
+    * Le but est de partager, en un minimum de temps, un maximum d'informations générales susceptibles d'intéresser le plus grand nombre.
     * Cette réunion concerne tous les gens de Pix.
     * 
 _D'autres rituels peuvent exister, cela dépend de l'organisation des équipes (sprint planning, backlog grooming, etc.)._
