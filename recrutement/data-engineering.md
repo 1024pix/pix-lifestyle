@@ -10,7 +10,7 @@ Le ou la Data Engineer sera rattaché(e) au pôle développement de Pix, en coll
 
 ## Les missions :
 
-1. Concevoir et mettre en place des architecture et des plateformes permettant l’étude et la valorisation de nos données
+1. Concevoir et mettre en place des architectures et des plateformes permettant l’étude et la valorisation de nos données
    Pour traiter les volumes importants de données au sein de Pix, nous avons besoin de maintenir mais aussi de mettre en place nos architectures de données et des plateformes pour les utiliser.
 
 Vous serez notamment en charge de :
