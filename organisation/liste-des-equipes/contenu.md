@@ -17,7 +17,7 @@ Au programme dans l’équipe Contenu :
 
 ## C’est qui la « team Contenu » ?
 
-C’est une Product Owner et cinq développeur(euse)s dont les années d’expériences varient entre 1 et 10 ans.
+C’est une Product Owner et cinq développeur(euse)s dont les années d’expérience varient entre 1 et 10 ans.
 
 ## Profil attendu
 * A l’aise avec au moins un framework front
