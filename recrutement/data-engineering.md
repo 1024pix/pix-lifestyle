@@ -19,7 +19,7 @@ Vous serez notamment en charge de :
 * Mettre en place les architectures choisies
 * Développer des pipelines pour une bonne circulation des données et pour assurer leur fiabilité
 
-2. Maintenir les architectures et bases de données mises en places
+2. Maintenir les architectures et bases de données mises en place
 
 * Garantir le bon fonctionnement, la disponibilité et la performance des différentes bases de données et outils utilisés pour l’analyse de données
 * Proposer et valider des choix architecturaux
