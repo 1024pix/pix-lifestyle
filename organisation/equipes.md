@@ -11,4 +11,4 @@ En plus de ces équipes produits, 2 équipes techniques transverses :
 - [Data](liste-des-equipes/data.md)
 - [SRE](liste-des-equipes/sre.md)
 
-Pour le bon fonctionnement de ces équipes, le pôle _Engineering_ chez Pix possèdent deux VPE et un CTO pour aider les équipes à délivrer de la valeur dans les meilleurs conditions. 
+Pour le bon fonctionnement de ces équipes, le pôle _Engineering_ chez Pix possède deux VPE et un CTO pour aider les équipes à délivrer de la valeur dans les meilleures conditions. 
