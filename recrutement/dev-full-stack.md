@@ -1,4 +1,7 @@
-# Description du poste
+# Pix cherche : un(e) développeur(euse) full-stack JS
+
+[Fiche disponible sur notre site recrutement](https://pix.recruitee.com/o/developpeurse-fullstack)
+
 
 Pix est un projet public en plein essor qui a vocation à devenir le standard de la certification des compétences numériques. Pour répondre à cette perspective, nous consolidons nos équipes et recherchons notamment des passionnés du Web souhaitant mettre leurs talents au service de l’intérêt général.
 

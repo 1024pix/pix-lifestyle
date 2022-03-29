@@ -6,35 +6,42 @@ En face-à-face, autour d'un café, par visio ou par téléphone, échange ouver
 
 Les points que nous évaluons principalement à ce moment :
 
-* [ ] motivation et intérêt pour la mission de Pix
-* [ ] alignement des valeurs et de la culture
-* [ ] attitude et communication
-* [ ] potentiel opérationnel par rapport au rôle
-* [ ] spécialités ou expériences particulières remarquables
+* alignement entre les besoins Pix et les envies du candidat
+* motivation et intérêt pour la mission de Pix
+* alignement des valeurs et de la culture
+* potentiel opérationnel par rapport au rôle
+* spécialités ou expériences particulières remarquables
 
+## #2 Entretien opérationnel avec l'équipe
 
-## #2 Échange technique avec l'équipe
+À distance, entretien (environ 1h30) avec un(e) PO et deux développeur(euse)s pour évaluer les points de maîtrise suivants :
 
-Dans les locaux de Pix, entretien (environ 1h30) avec 1 ou 2 membre(s) de l'équipe pour évaluer les points de maîtrise suivants :
-
-* logiciel : Web, API (REST ou GraphQL), JavaScript et son écosystème, développement d'une SPA, etc.
+* méthodologique : pratiques de développement collaboratif
+* logiciel : Web, API, JavaScript et son écosystème, développement d'une SPA, etc.
 * opérationnel : archi, infra, PaaS, IaaS & cie
-* méthodologique : pratiques de développement collaboratif et Open Source
 * organisationnel : agilité, Lean, Scrum, Kanban, etc.
+
+Nous cherchons à répondre aux questions suivantes : 
+
+* avons-nous envie de travailler avec cette personne ?
+* a-t-elle l'envie de travailler avec nos méthodes et notre culture ?
+* quelles sont ses compétences techniques ?
+* si la personne est junior, est-elle prête à apprendre à nos cotés ?
 
 _**Prérequis :** venez avec du code, si possible le vôtre, dont vous êtes fiers ou que vous aimeriez améliorer. Cela nous servira de base de discussion._
 
 
-## 3 Échange technique avec les autres équipes
+## #3 Entretien managérial
 
-La collaboration et la proximité inter-équipes sont des choses cruciales pour nous. C'est pourquoi il nous paraît important qu'il y ait une rencontre du candidat avec 1 ou plusieurs membre(s) d'au moins une autre équipe.
+À distance ou dans les locaux, cet entretien a lieu avec le/la Lead Dev de l'équipe que rejoindra le candidat, une personne qui s'occupe du pôle Engineering (VPE ou CTO) et une personne de l'équipe RH.
 
-Les modalités et les points évalués sont les mêmes, qu'au précédent entretien technique, avec des personnes différentes.
+Durant ce point, nous discuterons : 
 
-_**Prérequis :** venez à nouveau avec du code, différent du précédent entretien._
-
+* des aspects pratiques du travail chez Pix (contrat, télé-travail, etc.)
+* de l'alignement de nos valeurs et de l'attendu coté candidat
+* des possibilités à venir chez Pix.
 
 ## Proposition de contrat
 
-À l'issue du second entretien technique, Pix formule au candidat ou à la candidate une proposition de contrat, qui aboutie sur la signature de celui ou celle-ci dans les locaux de Pix (en mode _signature d'un·e grand·e champion·ne dans un grand club_ ^^).
+À l'issue de l'entretien managérial, Pix formule au candidat ou à la candidate une proposition de contrat, qui aboutie sur la signature de celui ou celle-ci dans les locaux de Pix.
      
