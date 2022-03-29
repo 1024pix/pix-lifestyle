@@ -1,12 +1,9 @@
 # Présentation de Pix
 
+Pix est le service public en ligne pour tester, développer et certifier ses compétences numériques. Il répond à un enjeu de société fort : lutter contre le décrochage numérique en donnant les moyens à chaque citoyen d’en améliorer sa maîtrise et de valoriser ses compétences numériques tout au long de la vie.
 
-Pix est un service public d’évaluation, de développement et de certification des compétences numériques, accessible à tous - élèves, étudiants, personnes actives ou en recherche d'emploi, séniors, grands débutants, citoyens - via une plateforme en ligne : [pix.fr](https://pix.fr).
+Résolu à inventer de nouvelles manières de construire des services d’intérêt général, Pix est co-conçu avec ses équipes métier et tech, développé au travers de méthodes agiles, et exposé constamment au retour de ses utilisateurs : élèves, étudiants, enseignants, professionnels, DRH, demandeurs d’emploi, médiateurs et travailleurs sociaux…
 
-L'objectif de Pix est d’accompagner l’élévation du niveau général de connaissances et de compétences numériques et ainsi de préparer la transformation digitale de l’ensemble de notre société et de notre économie.
-
-Dans une société évoluant vers le tout-numérique, Pix a vocation à devenir le standard de l’évaluation et de la certification des compétences numériques pour révéler le potentiel de chacun et faire du numérique une opportunité pour tous. Pix se prépare ainsi pour un déploiement national dans l’enseignement scolaire et supérieur, dans la sphère professionnelle, et auprès d’acteurs de la médiation numérique.
-
-Ouvert au public depuis septembre 2017, Pix compte d’ores-et-déjà [300 000 utilisateurs](https://pix.fr/stats). Pix s’adresse tout autant aux professionnels qu’aux étudiants et aux élèves. La généralisation du service dans l’enseignement scolaire est prévue par le Ministère de l'éducation nationale à la prochaine rentrée scolaire 2019-2020.
+Pix compte déjà [7 millions d’utilisateurs inscrits](https://pix.fr/statistiques) et 1 000 000 de certifications passées depuis le lancement de la plateforme en septembre 2017. Pour révéler le potentiel de chacun, Pix réinvente le rapport aux tests et à l’apprentissage en ligne en transformant l’expérience en compétence à partir de défis apprenants et ludiques.
 
 Initié dans le cadre du dispositif [Startups d'Etat](https://beta.gouv.fr), Pix est aujourd'hui un groupement d'intérêt public (GIP).
