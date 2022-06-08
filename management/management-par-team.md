@@ -1,6 +1,6 @@
 # Le management au sein d'une équipe Engineering Pix
 
-Les équipes du pôle Engineering Pix sont, pour la plupart, découpées en plusieurs rôles. Ces rôles assurent un suivi et un management liés à l'équipe et aux travails réguliers (ticket en cours, sujets techniques ou fonctionnels, etc.)
+Les équipes du pôle Engineering Pix sont, pour la plupart, découpées en plusieurs rôles. Ces rôles assurent un suivi et un management liés à l'équipe et aux travaux réguliers (ticket en cours, sujets techniques ou fonctionnels, etc.)
 
 ## Les rôles au sein d'une équipes
 
@@ -12,16 +12,16 @@ On peut mettre en avant 3 rôles :
 ### Product Owner 
 
 Le/la PO a pour responsabilité de :
-- porter la vision stratégique sur son scope fonctionnel en interne / externe → NSM, OKR, enjeux, opportunités, risques
+- porter la vision stratégique sur son scope fonctionnel en interne / externe → objectifs, mesures-clés, enjeux, opportunités, risques
 - définir les tactiques à mettre en œuvre pour la réaliser → roadmap, deadlines
-- prioriser l’opérationnel (fonctionnelle, technique ou autre) de concert avec le reste de l'équipe et de toute l’organisation → product / sprint backlogs, US, tâches, estimations si nécessaire
-- s’assurer qu’on livre le bon produit, au bon moment → validation fonctionnelle en RA et staging
-- comprendre le système, ses usages et son impact par rapport aux problématiques métier → BI / data analytics, panels utilisateurs, expérimentations, etc.
+- prioriser l’opérationnel (fonctionnelle, technique ou autre) de concert avec le reste de l'équipe et de toute l’organisation → product / sprint backlogs, _User Stories_, tâches, estimations si nécessaire
+- s’assurer qu’on livre le bon produit, au bon moment → validation fonctionnelle en Review App et en recette
+- comprendre le système, ses usages et son impact par rapport aux problématiques métier → analyse des données, panels utilisateurs, expérimentations, etc.
 - communiquer
 
 Il/Elle participe à :
 - l'élaboration et la conception de solution et d’hypothèses de résolution de problème
-- l’amélioration et au bon fonctionnement de l'équipe → rituels agiles, O3, alertes
+- l’amélioration et au bon fonctionnement de l'équipe → rituels agiles, O3 (one-on-one), alertes
 - recruter ou valider des profils en vue de renforcer l'équipe
 
 ### Lead Dev
@@ -38,7 +38,7 @@ Le/la Lead De a pour responsabilité de :
 
 Il participe à :
 - l'élaboration et la conception de solution et d’hypothèses de résolution de problème
-- l’amélioration et au bon fonctionnement de l'équipe → rituels agiles, O3, alertes
+- l’amélioration et au bon fonctionnement de l'équipe → rituels agiles, O3 (one-on-one), alertes
 - recruter ou valider des profils en vue de renforcer l'équipe
 - la vie de l'équipe Engineering et la vie de Pix (animation, recrutement, onboarding, ou autres actions qui lui semble importante)
 - la stratégie de l'équipe Engineering 
@@ -66,7 +66,7 @@ Le suivi des développeur(euse)s au sein d'une équipe se fait par le/la lead de
 
 Ce rôle (LD) assure régulièrement des points avec chaque membre de l'équipe.
 
-Ces points sont appelés O3 (pour One on One, ou 1:1) : durant 30 minutes environ, toutes les semaines ou toutes les deux semaines, le/la Lead Dev échange avec un(e) dev.
+Ces points sont appelés O3 (pour One on One, ou 1:1), ils permettent un point d'échange exclusif entre un/e dev avec le/la lead dev qui dure généralement 30 minutes et à un rythme adapté au besoin du dev (en moyenne toutes les 2 semaines).
 
 Cet échange privilégié permet au dev de discuter de ce qui est important pour lui, de son état d’esprit ou de ses difficultés, professionnels ou personnels s’il choisit d’en parler, dans l’optique d’y apporter des solutions.
 
