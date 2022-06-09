@@ -7,7 +7,7 @@ Au sein de Pix, il est possible de passer d'une équipe Engineering à une autre
 * Pour voir de nouveaux contextes
 * Pour se challenger
 * Pour apporter une nouvelle vision aux équipes
-* Pour faciliter l'alignement des pratiques entre les teams
+* Pour faciliter l'alignement des pratiques entre les équipes
 
 ## Le besoin de changer d'équipe
 
