@@ -12,9 +12,9 @@ Au sein de Pix, il est possible de passer d'une équipe Engineering à une autre
 ## Le besoin de changer d'équipe
 
 Le changement d'équipe peut se faire suite :
-* A une envie d'un(e) dev de changer d'équipe ou de voir d'autres contextes
-* A une suggestion d'un(e) manager ou d'un(e) lead-dev
-* A un besoin de renforcement d'une autre équipe
+* À l'envie d'un(e) dev de changer d'équipe ou de voir d'autres contextes
+* À la suggestion d'un(e) manager ou d'un(e) lead-dev
+* Au besoin de renforcement d'une autre équipe
 
 ## Les types de changements
 
