@@ -36,7 +36,7 @@ Les étapes pour un changement temporaire :
 ### Changement permanent
 
 Les étapes pour un changement permanent :
-* le/la dev doit en discuter avec son manager Pix s'il/elle est interne
+* le/la dev doit en discuter avec son ou sa manager Pix s'il/elle est interne
 * le/la dev doit en discuter avec son équipe (PO+LD+dev) pour annoncer son envie de changement et s'assurer que son départ ne posera pas problème
 * le/la dev annonce son envie de changer d'équipe lors du Weekly Meeting Dev
 * suite à cette annonce : 
