@@ -1,6 +1,6 @@
 # Changer d'équipe
 
-Au sein de Pix, il est possible de passer d'une des équipes Engineering à une autre, si le contexte le permet. 
+Au sein de Pix, il est possible de passer d'une équipe Engineering à une autre, si le contexte le permet. 
 
 ## Pourquoi changer d'équipe ?
 
