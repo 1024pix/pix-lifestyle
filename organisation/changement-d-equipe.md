@@ -40,8 +40,8 @@ Les étapes pour un changement permanent :
 * le/la dev doit en discuter avec son équipe (PO+LD+dev) pour annoncer son envie de changement et s'assurer que son départ ne posera pas problème
 * le/la dev annonce son envie de changer d'équipe lors du Weekly Meeting Dev
 * suite à cette annonce : 
-  * le/la dev peut passer du temps ponctuelle avec les autres équipes
-  * le/la dev peut demander s'il y a un besoin particulier sur une équipe
+  * le/la dev peut passer ponctuellement du temps avec les autres équipes
+  * le/la dev peut demander si une équipe en particulier a besoin de renfort
 
 Une fois l'équipe cible identifiée :
 * le/la dev échange avec toute la future équipe (PO+LD+dev)
