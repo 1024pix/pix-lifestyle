@@ -24,9 +24,9 @@ Les questions qu'on essaie d'aborder lors des O3 chez Pix sont :
 
 ## En pratique
 
-Pour que les O3 puissent être utile, il est important de : 
-* Prévoir ces O3 régulièrement dans les agendas (toutes les semaines ou toutes les deux semaines)
-* D'avoir un temps court : 30 minutes suffisent la plupart du temps
+Pour que les O3 puissent être utiles, il est important de : 
+* les prévoir, par exemple sur un rythme régulier (toutes les semaines ou toutes les deux semaines)
+* limiter la durée de l'échange : 30 minutes suffisent la plupart du temps
 
 La fréquence peut être adaptée en fonction du nombre d'interactions déjà existantes ou d'un besoin spécifique.
 
