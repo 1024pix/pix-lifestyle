@@ -30,7 +30,7 @@ Pour que les O3 puissent être utile, il est important de :
 
 La fréquence peut être adaptée en fonction du nombre d'interactions déjà existantes ou d'un besoin spécifique 
 
-Le contenu des O3 dépendent beaucoup des deux personnes. Il est possible de partager une liste de sujets à aborder en amont ou échanger de manière plus spontannée autour d'un café.
+Le contenu des O3 dépendent beaucoup des deux personnes. Il est possible de partager une liste de sujets à aborder en amont ou échanger de manière plus spontanée autour d'un café.
 
 Il est aussi possible de sortir du cadre pour proposer des O3 autour d'un déjeuner, d'une balade en extérieur, etc.
 
