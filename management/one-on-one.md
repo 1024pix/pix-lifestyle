@@ -5,7 +5,7 @@ _Extrait de: Camille Fournier. «The Manager’s Path.»_
 
 ## C'est quoi les one-on-one ? 
 
-Les O3, one-on-one ou 1-1s, sont des échanges courts, réguliers, où une personne avec un rôle de manager/coach échange accompagne le managé grâce à son vécu au sein de l'équipe et de l'entreprise.
+Les O3, one-on-one ou 1-1s, sont des échanges courts, réguliers, où une personne avec un rôle de manager/coach échange et accompagne le managé grâce à son vécu au sein de l'équipe et de l'entreprise.
 C'est un moment d'échange permettant de créer une connexion, et surtout une relation de confiance : nous sommes des humains avec notre vie, et il est important de pouvoir indiquer quand il y a des soucis.
 La régularité des O3 est importante pour avoir une opportunité d'échanger en privé sur les sujets qui sont importants.
 
