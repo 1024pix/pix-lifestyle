@@ -39,8 +39,8 @@ Il est important de garder une trace écrite de ce qui est dit afin de pouvoir s
 ## Qui en fait ?
 
 Chez Pix : 
-* Le manager avec son managé
+* Le/la manager avec son managé
 * Les Lead d'équipe (Lead-Dev ou autres) avec les membres de son équipe
-* Le CTO/VPE avec les Lead d'équipe
-* Le CPO avec les PO
+* Le/la CTO/VPE avec les Lead d'équipe
+* Le/la CPO avec les PO
 * Entre chaque personne qui souhaite avoir ce type d'échange avec une autre personne.
