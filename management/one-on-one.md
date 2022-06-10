@@ -9,7 +9,7 @@ Les O3, one-on-one ou 1-1s, sont des échanges courts, réguliers, où une perso
 C'est un moment d'échange permettant de créer une connexion, et surtout une relation de confiance : nous sommes des humains avec notre vie, et il est important de pouvoir indiquer quand il y a des soucis.
 La régularité des O3 est importante pour avoir une opportunité d'échanger en privé sur les sujets qui sont importants.
 
-Les O3 sont l'occasion de faire des _feedbacks_, positifs ou d'évoquer des axes d'amélioration.
+Les O3 sont l'occasion de faire des _feedbacks_ ou d'évoquer des axes d'amélioration.
 La personne dans le rôle de manager/coach doit être à l'écoute, et être capable de formulaire clairement des retours ou ses attentes.
 
 **Attention**, les O3 ne sont pas des _status meeting_ : ce n'est pas un point pour vérifier le bon avancement d'un chantier ou le remplissage d'une TO-DOs liste. Ces échanges pourraient être faire par écrit ou en dehors des O3.
