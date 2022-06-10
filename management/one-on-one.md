@@ -28,7 +28,7 @@ Pour que les O3 puissent être utile, il est important de :
 * Prévoir ces O3 régulièrement dans les agendas (toutes les semaines ou toutes les deux semaines)
 * D'avoir un temps court : 30 minutes suffisent la plupart du temps
 
-La fréquence peut être adaptée en fonction du nombre d'interactions déjà existantes ou d'un besoin spécifique 
+La fréquence peut être adaptée en fonction du nombre d'interactions déjà existantes ou d'un besoin spécifique.
 
 Le contenu des O3 dépendent beaucoup des deux personnes. Il est possible de partager une liste de sujets à aborder en amont ou échanger de manière plus spontanée autour d'un café.
 
