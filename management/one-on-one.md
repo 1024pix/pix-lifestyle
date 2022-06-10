@@ -16,7 +16,7 @@ La personne dans le rôle de manager/coach doit être à l'écoute, et être cap
 
 ## Les questions qui se posent en O3
 
-Les questions qu'on essaient d'aborder lors des O3 chez Pix sont : 
+Les questions qu'on essaie d'aborder lors des O3 chez Pix sont : 
 * Comment vas-tu ? 
 * Est-ce que tu es bloqués sur certains sujets ?
 * As-tu besoin d'aide, et de quel type ? 
