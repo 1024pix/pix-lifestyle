@@ -30,7 +30,7 @@ Pour le premier cas, une simple discussion pour prévoir l'échange suffit.
 
 Les étapes pour un changement temporaire : 
 * le/la dev doit en discuter avec son équipe (PO+LD, et les dev) pour s'assurer que son absence ne posera pas problème
-* les PO et LD des équipes, avec le/la dev concerné(e), en discute pour prévoir les dates de début et de fin
+* les PO et LD des équipes, avec le/la dev concerné(e), en discutent pour prévoir les dates de début et de fin
 * le/la dev l'annonce sur le slack #engineering, et lors du Weekly Meeting Dev 
 
 ### Changement permanent
