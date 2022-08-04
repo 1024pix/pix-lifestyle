@@ -1,24 +1,24 @@
 # Dev
 * Travailler en équipe
-  * Pair/Mob
+  * Travailler en Pair-programming et en Mob-programming
   * Collaborer avec les autres devs
 * Documenter
-  * Faire de la doc, des adr
+  * Rédiger de la documentation, des Architecture Decision Records (ADR)
   * Laisser une trace des décisions techniques
-  * Comprendre pourquoi la doc est importante
-* tester
-  * Tester le code (unit, etc.)
-  * Faire les tests fonctionnelles en local et en review app
+  * Comprendre pourquoi la documentation est importante
+* Tester
+  * Tester le code (unitaire, integration, acceptation)
+  * Faire les tests fonctionnels en local et en review app
   * Maintenir et améliorer les seeds
 * Ecrire du code
   * Fullstack
   * Réaliser des features
-  * Maintenir la base de code, l'améliorer (refacto), l'optimiser, s'assurer de la qualité
+  * Maintenir la base de code, l'améliorer (refactorisation), l'optimiser, s'assurer de la qualité
   * Questionner le code, remonter ses douleurs
-* Relation avec les autres poles
+* Relation avec les autres pôles
   * Aide au support
   * Proposer des solutions aux besoins métiers
-  * Les devs ne sont pas de la DSI/RMI/Etc.
+  * Les devs n'ont pas de le devoir de remplir les missions attribuées aux autres pôles DSI/RMI/Etc.
 * challenger
   * Le besoin ou la solutions, la maquette
   * Challenger != de tout remettre en question : questionner, chercher la meilleure solution
