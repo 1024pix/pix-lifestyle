@@ -45,7 +45,7 @@ Les étapes pour un changement permanent :
 
 Une fois l'équipe cible identifiée :
 * le/la dev échange avec toute la future équipe (PO+LD+dev)
-* Les PO et LD des deux équipes, avec le/la dev, décide d'une date de changement
+* Les PO et LD des deux équipes, avec le/la dev, décident d'une date de changement
 * Le/la LD de la future équipe prévoit un O3 avec l'arrivant
 * le/la dev annonce le changement d'équipe lors du Weekly Meeting Dev et sur #engineering
 
