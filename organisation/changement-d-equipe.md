@@ -1,9 +1,9 @@
 # Changer d'équipe
 
-Au sein de Pix, il est possible de passer d'une équipe Engineering à une autre, si le contexte le permet. 
+Au sein de Pix, il est possible de passer d'une équipe Engineering à une autre, si le contexte le permet.
 
 ## Pourquoi changer d'équipe ?
-
+Quelques raisons qui pourraient motiver un(e) dev à changer d'équipe :
 * Pour voir de nouveaux contextes
 * Pour se challenger
 * Pour apporter une nouvelle vision aux équipes
@@ -28,18 +28,18 @@ Pour le premier cas, une simple discussion pour prévoir l'échange suffit.
 
 ### Changement temporaire
 
-Les étapes pour un changement temporaire : 
+Les étapes pour un changement temporaire :
 * le/la dev doit en discuter avec son équipe (PO+LD, et les dev) pour s'assurer que son absence ne posera pas problème
 * les PO et LD des équipes, avec le/la dev concerné(e), en discutent pour prévoir les dates de début et de fin
-* le/la dev l'annonce sur le slack #engineering, et lors du Weekly Meeting Dev 
+* le/la dev l'annonce sur le slack #engineering, et lors du Weekly Meeting Dev
 
 ### Changement permanent
 
 Les étapes pour un changement permanent :
 * le/la dev doit en discuter avec son ou sa manager Pix s'il/elle est interne
 * le/la dev doit en discuter avec son équipe (PO+LD+dev) pour annoncer son envie de changement et s'assurer que son départ ne posera pas problème
-* le/la dev annonce son envie de changer d'équipe lors du Weekly Meeting Dev
-* suite à cette annonce : 
+* le/la dev peut annoncer son envie de changer d'équipe lors du Weekly Meeting Dev (si la personne souhaite des retours sur son envie)
+* ensuite : 
   * le/la dev peut passer ponctuellement du temps avec les autres équipes
   * le/la dev peut demander si une équipe en particulier a besoin de renfort
 
@@ -52,4 +52,3 @@ Une fois l'équipe cible identifiée :
 ### Documents utiles :
 
 Le document représentant l'état des équipes (disponible via le lien "Les équipes" sur le slack #engineering) permet de noter quand une personne souhaite changer d'équipe, ou si une équipe a des besoins.
-
