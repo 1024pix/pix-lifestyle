@@ -19,8 +19,8 @@
   * Aide au support
   * Proposer des solutions aux besoins métiers
   * Les devs n'ont pas de le devoir de remplir les missions attribuées aux autres pôles DSI/RMI/Etc.
-* challenger
-  * Le besoin ou la solutions, la maquette
+* Remettre en question
+  * Challenger le besoin, la solution ou la maquette
   * Challenger != de tout remettre en question : questionner, chercher la meilleure solution
 * Debugger
   * Corriger les bugs
