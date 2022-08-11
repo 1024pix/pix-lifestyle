@@ -12,7 +12,7 @@
   * Ponctuellement sur les environnements de review app si besoin pour les PO et UX. En règle générale, la revue fonctionnelle sur les environnements de review app est réalisée par les développeu·rs·ses.
 * Collaboration avec les métiers et autres produits
   * Synchronisation avec le reste de l'équipe produit, les équipes métiers, les UX/UI
-  * Suivi et pont avec le métier
+  * Suivi et points avec le métier
   * Aide au support si besoin
 * Roadmap :
   * Construire la roadmap (contenu, prioriser, etc.)
