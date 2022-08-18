@@ -24,7 +24,7 @@ Table des matières
     * [Management au sein de l'équipe](management/management-par-team.md)
     * [Management en interne Pix](management/management-pix.md)
 * [Autre](autre)
-    * [Pix en conf ! ](autre/conferences.md)
+    * [On partage nos expériences](autre/partage.md)
     * [Licence](autre/licence.md)
     
 
