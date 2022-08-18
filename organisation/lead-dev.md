@@ -1,59 +1,102 @@
+# Lead Dev
 
+## État de l'art
 
-# Lead Dev :
+### Hard skills
+
+#### Écrire du code
+
+* Conserver du temps pour développer
+* Savoir identifier ses limites et continuer d'apprendre en tant que dev
+* S'assurer de la qualité du code, du respect des bonnes pratiques et des ADR
+
+### Soft skills
+
+#### Relation avec les autres équipes
+
+* Synchro avec les autres LeadDev
+* Relais de la vision du VPE et du CTO
+* Identifier/Traiter/Remonter les problèmes
+* S'impliquer dans les envies de changement d'équipe
+
+#### Représentation à l'extérieur (de l'équipe, du pole, à Pix)
+
+* Avoir une bonne communication
+
+#### Recrutement/Management
+
+* Assurer le suivi du recrutement pour son équipe
+* Participer aux entretiens de recrutement pour son équipe
+* Faire remonter les inquiétudes au VPE/CTO
+
+#### Faire grandir
+
+* Connaitre les limites de son équipe
+* S'assurer que tout le monde est accompagné, notamment les juniors et les nouveaux arrivants
+* Contribuer à la progression technique de l'équipe
+* Être au service de l'équipe
+* Assurer l'autonomie de l'équipe
+* Encourager les membres de son équipe à faire des mises en jambes, rédiger des articles, etc.
+
+#### Produit
+
+* Comprendre la partie produit et le périmètre fonctionnel
+* Challenger le besoin
+* Être capable d'expliquer et défendre la vision produit à son équipe
+* Participer aux recueils de besoins, à des ateliers métiers (en tant que garant technique)
+
+#### Relation avec Product Owner
+
+* Point hebdomadaire
+* Remplacer en partie la PO en son absence (recette…)
+
+## Questions / À débattre
+
+### ??
+
 * ?? Positionnement Lead Dev Technique et Lead Dev Feature
 * ?? Accepter de ne plus pouvoir
 * Rôle avec plus d'implication et d'impact que les devs
-* Relation avec les autres équipes
-  * Synchro avec les autres LeadDev
-  * Relation VPE/victoires
-  * Etre un premier point de contact externe
-  * Identifier/Traiter/Remonter les problèmes
-  * Le Lead Dev doit rappeler les envies de changement d'équipe
-  * ?? Rôle en dehors de l'équipe. Rôle de cohésion à l'extérieur
-* Représentation à l'extérieur (de l'équipe, du pole, à Pix)
-  * Posséder et user de soft skills en communication
-  * Gestion de la forme
-* Recrutement/Management
-  * Assurer un suivi du recrutement pour son équipe
-  * Faire remonter les inquiétudes
-  * Partager la direction de Pix
-* Faire grandir
-  * Connaitre les limites des équipes
-  * Accompagner toutes les personnes de son équipe, en particulier les juniors
-  * Formateur, on boarding
-  * Contribuer à la progression technique de l'équipe
-  * Au service de l'équipe
-  * Devoir rendre l'équipe autonome
-  * Encourager à faire les Mises en Jambes, rédiger des articles, etc...
-* Faire des O3/Coacher
-  * Faire les rendez-vous O3 opérationnels avec les membres de l'équipe
-  * Accompagner la progression technique
-  * Obligatoire toutes les semaines ou toutes les 2 semaines
-* Produit
-  * Comprendre la partie produit et le périmètre fonctionnel
-  * Challenger le besoin et porter la vision produit finale
-  * Participer aux recueils de besoins, à des ateliers métiers
-  * ?? Le Lead Dev peut-il créer des tickets Jira ?
-  * Les LD doivent pouvoir être à tous les échanges produits (pour avoir une vision et une considération technique) avant le craquage (explorapix)
-* Relation Product Owner - Lead Dev
-  * Binome avec la PO
-  * Remplacer la PO si besoin
-  * Point par semaine
-* En cas d'absence du/de la lead dev, il est préférable d'avoir un suppléant au lead dev
-* C'est aussi un développeur
-  * Mais il a moins de temps pour développer
-  * Equilibre attendu (savoir identifier ses limites, continuer d'apprendre en tant que dev)
-  * ?? Quel est le niveau de séniorité attendu ?
-* Connaisseur et garant des bonnes pratiques
-* Synchronisation avec les autres équipes
-  * Point Lead Dev
-* Roadmap
-  * Le/la lead dev doit participer à la construction de la roadmap avec le/la product owner
-* Représentation
-  * Les LD ne sont pas identifiés d'un point de vue extérieur au pôle Engineering
-* Animer/faciliter
-  * Scrum master : tous les rôles tournent, (DSM, Weekly)
-* Choix technique
-  * Choix technique : L'équipe sait, le lead dev est là pour faciliter la décision. Trancher en toute connaissance de cause, et en notant le Pourquoi, et en acceptant la solution.
-  *
+* En cas d'absence du/de la lead dev, qui remplace le lead dev ?
+
+### Hard skills
+
+#### Écrire du code
+
+* ?? Quel est le niveau de séniorité attendu ?
+
+### Soft skills
+
+#### Relation avec les autres équipes
+
+* Assurer la cohésion du pole engineering
+* Être identifié par le métier et les autres équipes comme le premier contact
+
+#### Recrutement/Management
+
+* Participer aux entretiens de recrutement pour son équipe
+
+#### Faire grandir
+
+* Encourager les membres de son équipe à faire des mises en jambes, rédiger des articles, etc.
+
+#### Faire des O3/Coacher
+
+* Faire des O3 opérationnels réguliers avec les membres de l'équipe (à quelle fréquence ?)
+
+#### Produit
+
+* ?? Le Lead Dev peut-il créer des tickets Jira ?
+
+#### Relation avec Product Owner
+
+* Binome avec le/la PO (à caractériser)
+* Co-construction de la roadmap avec le/la product owner
+
+#### Animer/faciliter
+
+* Le LD est-il scrum master ? tous les rôles tournent, (DSM, Weekly)
+
+#### Choix technique  
+
+* Choix technique : L'équipe sait, le lead dev est là pour faciliter la décision. Trancher en toute connaissance de cause, et en notant le Pourquoi, et en acceptant la solution.
