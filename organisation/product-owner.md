@@ -7,7 +7,7 @@
 * Communication autour du produit :
   * Réaliser la démo lors des points bimensuels
   * Communiquer en interne et en externe
-* Recette avant MEP
+* Recette avant mise en production 
   * Valider les développements sur l'environnement de Recette
   * Ponctuellement sur les environnements de review app si besoin pour les PO et UX. En règle générale, la revue fonctionnelle sur les environnements de review app est réalisée par les développeu·rs·ses.
 * Collaboration avec les métiers et autres produits
