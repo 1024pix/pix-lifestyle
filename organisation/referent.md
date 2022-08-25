@@ -71,43 +71,54 @@
   * Echange mensuel(?) sur le sujet
 
 
+
+
 # Référent Design System
+
+## État de l'art
+
+### Hard skills
+
+#### Tech
+* Connaitre le repo Pix-UI
+* Aider les autres devs à ajouter des composants
+
+### Soft skills
+
+#### Faire grandir
+* Rendre l'autonomie aux équipes 
+* Animer les bonnes pratiques UI/UX
+* Partager les pratiques dans les équipes
+* Faciliter la contribution
+
+#### Relais
+* Auprès des des UX/UI/PO/Referent A11Y
+* Informer sur l'état des nouveaux composants
+
+#### Suivi
+* Connaitre le catalogue
+* Détecter les besoins et les problèmes
+
+## Questions / À débattre
 
 * Note : Design System != Pix-ui
 * Problème sur ce rôle : Pix-UI devenu un vrai produit
 
-* Relais :
-  * Auprès des des UX/UI/PO/Referent A11Y
-  * Informer sur l'état des nouveaux composants
+### Hard skills
 
-* Evolution
-  * Fait évoluer le Design-System
-  * Assurer la cohérence du DS
-  * Se mettre d'accord sur les composants
-  * Identifier des candidats au DS
+#### Evolution
+* Fait évoluer le Design-System
+* Assurer la cohérence du DS
+* Se mettre d'accord sur les composants
+* Identifier des candidats au DS
 
-* Revues
-  * Faire au suivi du DS
-  * Valider la cohérence
-  * S'assurer que les composants correspondent au DS
+#### Revues
+* Faire un suivi du DS
+* Valider la cohérence
+* S'assurer que les composants correspondent au DS
 
-* Tech
-  * Connaitre le repo Pix-UI
-  * Faire des maintenances
-  * Enrichir les composants
-  * Aider les autres devs à ajouter des composants
+#### Tech
+* Faire des maintenances
+* Enrichir les composants
 
-* Faire grandir
-  * Rendre l'autonomie aux équipes
-  * Animer les bonnes pratiques UI/UX
-  * Partager les pratiques dans les équipes
-  * Faciliter la contribution
-
-* Suivi
-  * Connaitre le catalogue
-  * Détecter les besoins et les problèmes
-
-* TODO :
-  * Travaux sur les priorisations
-  * Avoir une vraie réflexion sur ce rôle
-  * Aller parler avec les ref Design System
+### Soft skills
