@@ -31,7 +31,6 @@
 * Sprint/board
   * Gestionnaire de JIRA
   * Créer les Epix et les tickets Jira qui les constituent
-  * Rappeler à l'ordre si l'équipe de dev travaille sur quelque chose qui ne fait pas partie de la roadmap
 * Binomage lead dev
   * Doit être officialisé que la gestion de l'équipe est le travail conjoint du binôme Product Owner - Lead Dev
   * Préparation des sujets à venir
