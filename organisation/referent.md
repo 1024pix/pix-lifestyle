@@ -7,10 +7,10 @@
 #### Revues/Tech
 
 * Documente les bonnes pratiques de l'accessibilité
-* Faire attention à A11Y lors des reviews, et pousser l'équipe à y faire attention
+* Faire attention à l'A11Y lors des reviews, et pousser l'équipe à y faire attention
 * Communiquer les bonnes pratiques techniques sur le sujet
-* S'outiller pour faciliter la prise en compte de l'accessibilité dans les developpements et les revues
-* N'est pas la seule personne à faire de l'accessibilité au sein de la team
+* S'outiller pour faciliter la prise en compte de l'accessibilité dans les développements et les revues
+* N'est pas la seule personne à faire de l'accessibilité au sein de l'équipe
 * Répondre aux questions : s'il a la réponse, en demander aux autres référents, en demandant à nos experts (Hotline Tanaguru)
 
 ### Soft skills
@@ -18,9 +18,9 @@
 #### Connaissance et appétence
 
 * S'informer/Veille
-* Connait les outils de bases et les informations pour pouvoir être référent (contact, liens, docs)
+* Connait les outils de base et les informations pour pouvoir être référent (contact, liens, docs)
 * Etre sensibilisé et curieux(se)
-* Générer de l'empathie et se mettre dans les bottes des utilisateurs
+* Être en empathie par rapport à nos utilisateurs
 
 #### Suivi
 
@@ -80,7 +80,7 @@
 ### Hard skills
 
 #### Tech
-* Connaitre le repo Pix-UI
+* Connaître le repo Pix-UI
 * Aider les autres devs à ajouter des composants
 
 ### Soft skills
@@ -92,22 +92,22 @@
 * Faciliter la contribution
 
 #### Relais
-* Auprès des des UX/UI/PO/Referent A11Y
+* Auprès des UX/UI/PO/Référent A11Y
 * Informer sur l'état des nouveaux composants
 
 #### Suivi
-* Connaitre le catalogue
+* Connaître le catalogue
 * Détecter les besoins et les problèmes
 
 ## Questions / À débattre
 
-* Note : Design System != Pix-ui
+* Note : Design System != Pix-UI
 * Problème sur ce rôle : Pix-UI devenu un vrai produit
 
 ### Hard skills
 
 #### Evolution
-* Fait évoluer le Design-System
+* Fait évoluer le Design System en collaborant avec l'UX/UI
 * Assurer la cohérence du DS
 * Se mettre d'accord sur les composants
 * Identifier des candidats au DS
