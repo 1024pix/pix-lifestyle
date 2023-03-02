@@ -16,7 +16,7 @@ La personne dans le rôle de manager/coach doit être à l'écoute, et être cap
 
 ## Les questions qui se posent en O3
 
-Les questions qu'on essaie d'aborder lors des O3 chez Pix sont : 
+A titre d'exemple, les questions qu'on essaie d'aborder lors des O3 chez Pix peuvent être: 
 * Comment vas-tu ? 
 * Est-ce que tu es bloqué sur certains sujets ?
 * As-tu besoin d'aide, et de quel type ? 
@@ -41,6 +41,7 @@ Il est important de garder une trace écrite de ce qui est dit afin de pouvoir s
 Chez Pix : 
 * Le/la manager avec son/sa managé/e
 * Les Lead d'équipe (Lead-Dev ou autres) avec les membres de son équipe
+* Le/la PO et le/la Lead Dev
 * Le/la CTO/VPE avec les Lead d'équipe
 * Le/la CPO avec les PO
 * Entre chaque personne qui souhaite avoir ce type d'échange avec une autre personne.
