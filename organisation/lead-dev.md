@@ -82,7 +82,7 @@
 
 #### Faire des O3/Coacher
 
-* Faire des O3 opérationnels réguliers avec les membres de l'équipe (à quelle fréquence ?)
+* Faire des One-on-One (03) opérationnels réguliers avec les membres de l'équipe (à quelle fréquence ?)
 
 #### Produit
 
@@ -90,7 +90,7 @@
 
 #### Relation avec Product Owner
 
-* Binome avec le/la PO (à caractériser)
+* Binome avec le/la product owner (à caractériser)
 * Co-construction de la roadmap avec le/la product owner
 
 #### Animer/faciliter
