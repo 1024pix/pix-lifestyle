@@ -1,0 +1,1 @@
+# Management au sein de Pix
