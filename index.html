@@ -1,26 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Pix Lifestyle</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <meta name="description" content="A magical documentation generator." />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" title="vue" />
 </head>
+
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Pix lifestyle',
-      repo: 'https://github.com/1024pix/pix-lifestyle',
-      loadSidebar: true,
-      relativePath: true,
-      logo: 'https://storage.gra.cloud.ovh.net/v1/AUTH_27c5a6d3d35841a5914c7fb9a8e96345/pix-help-center/images/pix-logo.svg',
-      themeColor: '#2044dc',
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<div id="app">Chargement ...</div>
+<script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
+
+<script>
+
+  // Docsify configuration
+  window.$docsify = {
+    alias: {
+      '/.*/_navbar.md': '/_navbar.md',
+    },
+    auto2top: true,
+    executeScript: true,
+    loadSidebar: true,
+    loadNavbar: true,
+    mergeNavbar: true,
+    maxLevel: 4,
+    subMaxLevel: 2,
+    name: 'Pix lifestyle',
+    repo: 'https://github.com/1024pix/pix-lifestyle',
+    logo: 'https://storage.gra.cloud.ovh.net/v1/AUTH_27c5a6d3d35841a5914c7fb9a8e96345/pix-help-center/images/pix-logo.svg',
+    themeColor: '#2044dc',
+    nameLink: {
+      '/': '#/',
+    },
+    search: {
+      noData:  'Pas de résultat !',
+      paths: 'auto',
+      placeholder: 'Rechercher...',
+    },
+  };
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 </body>
 </html>
