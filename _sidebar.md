@@ -1,0 +1,23 @@
+<!-- docs/_sidebar.md -->
+
+
+* [Présentation de Pix](presentation/README.md)
+  * [Pix](presentation/pix.md)
+  * [Convictions et valeurs](presentation/convictions-et-valeurs.md)
+* [Le produit Pix](produit/README.md)
+  * [La stack technique et l'architecture](produit/stack.md)
+  * [Les produits](produit/produits.md)
+* [Organisation](organisation/README.md)
+  * [Les équipes](organisation/equipes.md)
+  * [Les rituels](organisation/rituels.md)
+  * [Le télé-travail](organisation/teletravail.md)
+* [Recrutement](recrutement/README.md)
+  * [Process de recrutement](recrutement/processus-de-recrutement.md)
+  * [Dev full-stack](recrutement/dev-full-stack.md)
+* [Accueillir](onboarding/README.md)
+* [Management](management/README.md)
+  * [Management au sein de l'équipe](management/management-par-team.md)
+  * [Management en interne Pix](management/management-pix.md)
+* [Autre](autre/README.md)
+  * [On partage nos expériences](autre/partage.md)
+  * [Licence](autre/licence.md)
