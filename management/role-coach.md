@@ -1,7 +1,6 @@
 # L'accompagnement des personnes chez Pix Engineering 
 
-Les attendus des personnes en charge de l'accompagnement.
-
+Les attendus des personnes en charge de l'accompagnement sont : 
 - Coaching : 
   - Faire grandir 
   - Accompagner la formation
@@ -40,3 +39,10 @@ Les attendus des personnes en charge de l'accompagnement.
 Autres :
 - Changement d'équipe à voir avec le/la manager
 - Les personnes en charge de l'accompagnement ne sont pas RH, ni manager, et ce n'est pas leur seule activités.
+
+Les attendus des personnes accompagnées sont : 
+- Présence aux O3 (One-on-one)
+- Remonter ce qui se passe dans sa vie chez Pix : les douleurs, les problèmes, les victoires, ce qu'il/elle apprécie ou non, etc.
+- Faire du feedback, et apprendre à en recevoir
+- S'interroger sur ses envies au sein de Pix (challenges, carrières, etc.)
+- Etre à jour administrativement
