@@ -34,5 +34,5 @@ Nous sommes actuellement à la recherche de [développeurs ou développeuses *fu
 
 ## Nous retrouver !
 
-Par mail : 
-Sur notre blog : 
+Par courriel : engineering@pix.fr  
+Sur notre blog : http://engineering.pix.fr/
