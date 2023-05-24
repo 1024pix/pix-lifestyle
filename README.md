@@ -14,6 +14,7 @@ Table des matières
     * [Les produits](produit/produits.md)
 * [Organisation](organisation)
     * [Les équipes](organisation/equipes.md)
+    * [Le rôle de Lead](organisation/lead-equipe.md)
     * [Les rituels](organisation/rituels.md)
     * [Le télé-travail](organisation/teletravail.md)
 * [Recrutement](recrutement)
