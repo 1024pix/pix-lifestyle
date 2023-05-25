@@ -45,7 +45,7 @@ Le/la Lead est aussi amené à prendre du temps sur des sujets comme :
 - Veille interne/Externe : pour pouvoir aider au mieux son équipe, le/lead fait une veille sur ce qui se passe en interne chez Pix mais aussi à l'extérieur
 - Aide ponctuelle sur un sujet tech : si d'autres membres du pôle Engineering ont besoin, le/la lead sera souvent contacté en direct pour des questions tech/scope/etc
 
-Sur les Features Teams, en tant que binome avec le/la PO, le/la lead pourra être amené à remplacer ce rôle en cas d'absence, mais aussi de créer des tickets, faire de
+Sur les Features Teams, en tant que binome avec le/la PO, le/la lead pourra être amené à remplacer ce rôle en cas d'absence, mais aussi de créer des tickets, faire une recette, etc.
 
 Les rituels d'équipe (daily, weekly, rétro, etc. ) sont animés par tous les membres de l'équipe, le/la lead doit s'assurer que des personnes portent bien le sujet, mais ne sont pas automatiquement les animateurs.
 
