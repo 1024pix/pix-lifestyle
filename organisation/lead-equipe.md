@@ -20,7 +20,7 @@ Lors de la conception de solution et le développement, le/la Lead Dev aide l'é
 
 Le/la lead aide l'équipe à progresser, autant en tant qu'équipe qu'en tant qu'individu, en donnant des outils et un cadre pour aider à apprendre et à évoluer. Son objectif est de rendre l'équipe la plus autonome possible.
 
-La personne qui aura sera rôle sera, selon le type de l'équipe, accompagnée d'une(e) PO ou des CTriO. Avec ces personnes, le/la lead travaillera à la priorisation des sujets et à l'organisation de l'équipe.
+La personne qui aura ce rôle sera, selon le type de l'équipe, accompagnée d'une(e) PO ou des CTriO. Avec ces personnes, le/la lead travaillera à la priorisation des sujets et à l'organisation de l'équipe.
 
 Ce rôle n'est pas isolé : le/la lead travaille en binome avec le/la PO, mais aussi avec le CTriO et en communauté avec les autres Lead.
 
