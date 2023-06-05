@@ -39,7 +39,7 @@ En plus de cela, le/la lead fait :
 - Un point hebdomadaire, nommé Synchro Tech, d'échange et de synchro avec les autres Lead d'équipe.  
   
 Le/la Lead est aussi amené à prendre du temps sur des sujets comme : 
-- Les points produits et/ou métiers: l'équipe produit organise plusieurs points pour comprendre les besoins utilisateurs (Roadmap, Propro, ateliers, etc.) où les leads doivent être pour comprendre au mieux le besoin et apporter une vision technique
+- Les points produits et/ou métiers: l'équipe produit organise plusieurs points pour comprendre les besoins utilisateurs (Roadmap, ProPro, ateliers, etc.) auxquels les leads doivent assister pour comprendre au mieux le besoin et apporter une vision technique
 - Le Recrutement : si l'équipe a besoin de grossir, ou pour donner un coup de main à d'autres équipes, le Lead peut prendre du temps pour le recrutement, pour pouvoir construire au mieux son équipe
 - Analyse d'impact : le/la lead étudiera souvent si le sujet en cours a des impacts à prendre en compte : impacts sur d'autres équipes, sur la performance ou la sécurité, etc.
 - Veille interne/Externe : pour pouvoir aider au mieux son équipe, le/lead fait une veille sur ce qui se passe en interne chez Pix mais aussi à l'extérieur
@@ -99,10 +99,10 @@ Pour pouvoir faire au mieux son travail, Pix essaie de fournir au mieux :
 
 De son équipe, le/la lead a aussi besoin :
 
-- d'avoir des remontés sur les difficultés
+- d'avoir des remontées sur les difficultés
 - d'avoir des feedbacks
-- d'être sollicité
-- d'avoir des gens supports au sein de l'équipe : force de proposition, expert technique, etc
+- d'être sollicité(e)
+- d'avoir des gens supports au sein de l'équipe : force de proposition, expert(e) technique, etc
 
 Comme toute personne au sein du Pôle, le/la lead a aussi besoin de grandir, d'apprendre et de se challenger.
 
