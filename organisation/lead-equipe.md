@@ -6,7 +6,7 @@ Les équipes au sein du Pôle Engineering sont constituées de plusieurs dev/dat
 
 Le/la Lead fait partie intégrante de l'équipe. 
 A ce titre, cette personne est aussi **un(e) dev/data/ops/sre comme les autres**, et donc aura du temps pour développer 
-Nous pouvons considérer que le/la lead passe au minimum 40% de son temps à développer.
+Dans l'idéal, nous pouvons considérer que le/la lead passe au minimum 40% de son temps à développer.
 
 La personne qui a le rôle de Lead est un des points d'entrée de l'équipe, elle incarne la partie Tech de l'équipe. Avec ce rôle, il est important d'être un relais d'information, autant de l'équipe vers l'extérieur que de l'extérieur de l'équipe vers ses membres.
 
@@ -14,7 +14,7 @@ Elle participe aussi activement, comme les autres membres de l'équipe, à la co
 
 Cette personne doit avoir une vision globale sur les activités de l'équipe, sur son scope technique et métier et sur les stacks utilisées. Avec cela, le/la Lead doit animer et s'assurer que tout le monde participe bien à la réalisation des tickets et tâches en cours les plus pertinents.
 
-Elle doit connaitre les différents membres de l'équipe, leurs forces et faiblesses, et s'assurer que l'équipe a tout ce dont ils ont besoin pour travailler (besoin humain ou technique).
+Elle doit connaitre les différents membres de l'équipe, leurs forces et faiblesses, et s'assurer que l'équipe a tout ce dont elle a besoin pour travailler (besoin humain ou technique).
 
 Lors de la conception de solution et le développement, le/la Lead Dev aide l'équipe à trouver la solution la plus pertinente dans le contexte donné. 
 
@@ -45,7 +45,7 @@ Le/la Lead est aussi amené à prendre du temps sur des sujets comme :
 - Veille interne/Externe : pour pouvoir aider au mieux son équipe, le/lead fait une veille sur ce qui se passe en interne chez Pix mais aussi à l'extérieur
 - Aide ponctuelle sur un sujet tech : si d'autres membres du pôle Engineering ont besoin, le/la lead sera souvent contacté en direct pour des questions tech/scope/etc
 
-Sur les Features Teams, en tant que binome avec le/la PO, le/la lead pourra être amené à remplacer ce rôle en cas d'absence, mais aussi de créer des tickets, faire une recette, etc.
+Sur les Features Teams, en tant que binome avec le/la PO, le/la lead pourra être amené à remplacer ce rôle en cas d'absence, mais aussi à créer des tickets ou s'assurer que les tickets sont bien créés par l'équipe, faire une recette, etc.
 
 Les rituels d'équipe (daily, weekly, rétro, etc. ) sont animés par tous les membres de l'équipe, le/la lead doit s'assurer que des personnes portent bien le sujet, mais ne sont pas automatiquement les animateurs.
 
