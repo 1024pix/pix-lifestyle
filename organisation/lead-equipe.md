@@ -1,6 +1,6 @@
 # Lead d'équipe
 
-Les équipes au sein du Pôle Engineering sont constituées de plusieurs développeurs/data/ops/sre, avec une personne de l'équipe ayant le rôle de Lead.
+Les équipes au sein du Pôle Engineering sont constituées de plusieurs dev/data/ops/sre, avec une personne de l'équipe ayant le rôle de Lead.
 
 ## Qu'est-ce qu'un Lead ? 
 
@@ -18,11 +18,11 @@ Elle doit connaitre les différents membres de l'équipe, leurs forces et faible
 
 Lors de la conception de solution et le développement, le/la Lead Dev aide l'équipe à trouver la solution la plus pertinente dans le contexte donné. 
 
-Le/la lead aide l'équipe à progresser, autant en tant qu'équipe qu'en tant qu'individu, en donnant des outils et un cadre pour aider à apprendre et à évoluer. Son objectif est de rendre l'équipe la plus autonome possible.
+Le/la lead aide l'équipe à progresser, autant l'équipe que les individus, en donnant des outils et un cadre pour aider à apprendre et à évoluer. Son objectif est de rendre l'équipe la plus autonome possible.
 
-La personne qui aura ce rôle sera, selon le type de l'équipe, accompagnée d'une(e) PO ou des CTriO. Avec ces personnes, le/la lead travaillera à la priorisation des sujets et à l'organisation de l'équipe.
+La personne qui aura ce rôle sera, selon le type de l'équipe, accompagnée d'un(e) PO ou des CTriO. Avec ces personnes, le/la lead travaillera à la priorisation des sujets et à l'organisation de l'équipe.
 
-Ce rôle n'est pas isolé : le/la lead travaille en binome avec le/la PO, mais aussi avec le CTriO et en communauté avec les autres Lead.
+Ce rôle n'est pas isolé : le/la lead travaille en binôme avec le/la PO, mais aussi avec le CTriO et en communauté avec les autres Lead.
 
 Dans son rôle, la personne est souvent amenée à identifier, traiter et remonter des problèmes aux personnes ou groupes concernés.
 
@@ -41,7 +41,7 @@ En plus de cela, le/la lead fait :
 Le/la Lead est aussi amené à prendre du temps sur des sujets comme : 
 - Les points produits et/ou métiers: l'équipe produit organise plusieurs points pour comprendre les besoins utilisateurs (Roadmap, ProPro, ateliers, etc.) auxquels les leads doivent assister pour comprendre au mieux le besoin et apporter une vision technique
 - Le Recrutement : si l'équipe a besoin de grossir, ou pour donner un coup de main à d'autres équipes, le Lead peut prendre du temps pour le recrutement, pour pouvoir construire au mieux son équipe
-- Analyse d'impact : le/la lead étudiera souvent si le sujet en cours a des impacts à prendre en compte : impacts sur d'autres équipes, sur la performance ou la sécurité, etc.
+- Analyse d'impact : le/la lead étudiera souvent si le sujet en cours a des impacts et effets de bord à prendre en compte : impacts sur d'autres équipes, sur la performance ou la sécurité, etc.
 - Veille interne/Externe : pour pouvoir aider au mieux son équipe, le/lead fait une veille sur ce qui se passe en interne chez Pix mais aussi à l'extérieur
 - Aide ponctuelle sur un sujet tech : si d'autres membres du pôle Engineering ont besoin, le/la lead sera souvent contacté en direct pour des questions tech/scope/etc
 
@@ -63,7 +63,8 @@ Le/la lead n'est pas :
 - le/la second de l'équipe
 - le/la scrum master
 - un rôle "à vie" : si la personne souhaite ne plus être lead, c'est possible, et un plan de sortie sera construit pour aider à une bonne transition.
-
+Le/la lead ne doit pas être:
+ - un SPOF (Single Point of Failure)
 
 ## Pré-requis
 
