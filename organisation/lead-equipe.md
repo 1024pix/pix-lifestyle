@@ -2,7 +2,7 @@
 
 Les équipes au sein du Pôle Engineering sont constituées de plusieurs dev/data/ops/sre, avec une personne de l'équipe ayant le rôle de Lead.
 
-## Qu'est-ce qu'un Lead ? 
+## Qu'est-ce qu'un(e) Lead ? 
 
 Le/la Lead fait partie intégrante de l'équipe. 
 A ce titre, cette personne est aussi **un(e) dev/data/ops/sre comme les autres**, et donc aura du temps pour développer 
@@ -28,7 +28,7 @@ Dans son rôle, la personne est souvent amenée à identifier, traiter et remont
 
 Pour résumé, le/la Lead est un **Facilitateur** au sein de l'équipe, qui a pour objectif que l'équipe soit en capacité de travailler au mieux sur les bons sujets, avec le plus d'autonomie.
 
-## Dans son travail de tous les jours, que fait un Lead ? 
+## Dans son travail de tous les jours, que fait un(e) Lead ? 
 
 Dans son travail de tous les jours, le/la Lead a les mêmes tâches et activités que les autres membres de l'équipe. Nous recherchons un certain équilibre entre le rôle de lead et le rôle au sein de l'équipe.
 
@@ -66,7 +66,7 @@ Le/la lead n'est pas :
 
 ## Pré-requis
 
-Pour choisir un nouveau Lead, nous allons chercher des personnes qui :
+Pour choisir un(e) nouveau(elle) Lead, nous allons chercher des personnes qui :
 
 - ont envie et sont motivées à prendre ce rôle, et cela pour les bonnes raisons (et non pour des raisons d'image ou autre)
 - possèdent les bons *soft skills* :
