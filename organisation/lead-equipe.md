@@ -63,8 +63,6 @@ Le/la lead n'est pas :
 - le/la second de l'équipe
 - le/la scrum master
 - un rôle "à vie" : si la personne souhaite ne plus être lead, c'est possible, et un plan de sortie sera construit pour aider à une bonne transition.
-Le/la lead ne doit pas être:
- - un SPOF (Single Point of Failure)
 
 ## Pré-requis
 
