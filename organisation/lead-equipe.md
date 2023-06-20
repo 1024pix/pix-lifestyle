@@ -35,17 +35,18 @@ Dans son travail de tous les jours, le/la Lead a les mêmes tâches et activité
 En plus de cela, le/la lead fait : 
 - Des O3 opérationnels avec chaque membre de l'équipe, pour savoir si la personne se sent bien dans l'équipe, comment la faire évoluer au sein de l'équipe, et s'il y a des blocages ou des besoins d'aide sur ces sujets
 - Un point hebdomadaire avec la/le PO de l'équipe s'il y en a 
-- Un point hebdomadaire avec un membre du CTrio
+- Un point hebdomadaire (ou bi-mensuel) avec un membre du CTrio
 - Un point hebdomadaire, nommé Synchro Tech, d'échange et de synchro avec les autres Lead d'équipe.  
   
-Le/la Lead est aussi amené à prendre du temps sur des sujets comme : 
+
+Au même titre que les autres membres de l'équipe, mais avec plus de suivi/de régularité, le/la Lead prend aussi du temps pour :
+- Analyse d'impact : le/la lead étudiera souvent si le sujet en cours a des impacts et effets de bord à prendre en compte : impacts sur d'autres équipes, sur la performance ou la sécurité, etc.
+- Aide ponctuelle sur un sujet tech : si d'autres membres du pôle Engineering ont besoin, le/la lead sera souvent contacté en direct pour des questions tech/scope/etc
 - Les points produits et/ou métiers: l'équipe produit organise plusieurs points pour comprendre les besoins utilisateurs (Roadmap, ProPro, ateliers, etc.) auxquels les leads doivent assister pour comprendre au mieux le besoin et apporter une vision technique
 - Le Recrutement : si l'équipe a besoin de grossir, ou pour donner un coup de main à d'autres équipes, le Lead peut prendre du temps pour le recrutement, pour pouvoir construire au mieux son équipe
-- Analyse d'impact : le/la lead étudiera souvent si le sujet en cours a des impacts et effets de bord à prendre en compte : impacts sur d'autres équipes, sur la performance ou la sécurité, etc.
 - Veille interne/Externe : pour pouvoir aider au mieux son équipe, le/lead fait une veille sur ce qui se passe en interne chez Pix mais aussi à l'extérieur
-- Aide ponctuelle sur un sujet tech : si d'autres membres du pôle Engineering ont besoin, le/la lead sera souvent contacté en direct pour des questions tech/scope/etc
 
-Sur les Features Teams, en tant que binome avec le/la PO, le/la lead pourra être amené à remplacer ce rôle en cas d'absence, mais aussi à créer des tickets ou s'assurer que les tickets sont bien créés par l'équipe, faire une recette, etc.
+Sur les Features Teams, en tant que binome avec le/la PO, le/la lead pourra être amené à remplacer ce rôle en cas d'absence.
 
 Les rituels d'équipe (daily, weekly, rétro, etc. ) sont animés par tous les membres de l'équipe, le/la lead doit s'assurer que des personnes portent bien le sujet, mais ne sont pas automatiquement les animateurs.
 
@@ -107,6 +108,6 @@ De son équipe, le/la lead a aussi besoin :
 - d'être sollicité(e)
 - d'avoir des gens supports au sein de l'équipe : force de proposition, expert(e) technique, etc
 
-Comme toute personne au sein du Pôle, le/la lead a aussi besoin de grandir, d'apprendre et de se challenger.
+Comme toute personne au sein du Pôle, le/la lead a aussi besoin de grandir, d'apprendre et de se challenger. A date (juin 2023), Pix est en train de mettre en place de nouvelles approches pour les aider à évoluer au sein de leur rôle.
 
 Cet article a été initié lors d'un atelier commun le 23/05/2023 et inspiré par les livres comme "The manager's Path" ou des concepts comme "Servant leadership".
