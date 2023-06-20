@@ -8,7 +8,7 @@ Le/la Lead fait partie intégrante de l'équipe.
 A ce titre, cette personne est aussi **un(e) dev/data/ops/sre comme les autres**, et donc aura du temps pour développer 
 Dans l'idéal, nous pouvons considérer que le/la lead passe au minimum 40% de son temps à développer.
 
-La personne qui a le rôle de Lead est un des points d'entrée de l'équipe, elle incarne la partie Tech de l'équipe. Avec ce rôle, il est important d'être un relais d'information, autant de l'équipe vers l'extérieur que de l'extérieur de l'équipe vers ses membres.
+La personne qui a le rôle de Lead est un des points d'entrée de l'équipe, elle incarne la partie Tech de l'équipe. Avec ce rôle, il est important d'être un relai d'information, autant de l'équipe vers l'extérieur que de l'extérieur de l'équipe vers ses membres.
 
 Elle participe aussi activement, comme les autres membres de l'équipe, à la conception des solutions et à la cohérence technique du produit.
 
@@ -86,10 +86,14 @@ Pour choisir un(e) nouveau(elle) Lead, nous allons chercher des personnes qui :
 
 Au sein de Pix, tout le monde peut se proposer en tant que Lead si l'occasion apparait. Un groupe composé des CTriO, des Leads, et du PO de l'équipe si existant analysera la candidature afin de déterminer si ce changement est possible.
 
+Si un(e) Lead souhaite ne plus être lead, la personne doit en parler en premier lieu au CTriO pour remonter son envie, et une réflexion est lancé entre eux, avec un plan de sortie (Est-ce qu'il y a une personne qui peut prendre le rôle rapidement ? Est-ce qu'il des contraintes d'équipes). Ensuite, la personne pourra en parler avec son équipe, et Pix recherche alors qui pourrait prendre la suite.
+
+
 ## De quoi a besoin un(e) Lead ? 
 
 Pour pouvoir faire au mieux son travail, Pix essaie de fournir au mieux :
 
+- des cookies 🍪
 - une vision claire des sujets à venir et de la priorité
 - des informations et de la transparence sur le contexte actuel, les sujets importants, etc
 - du temps
@@ -105,3 +109,4 @@ De son équipe, le/la lead a aussi besoin :
 
 Comme toute personne au sein du Pôle, le/la lead a aussi besoin de grandir, d'apprendre et de se challenger.
 
+Cet article a été initié lors d'un atelier commun le 23/05/2023 et inspiré par les livres comme "The manager's Path" ou des concepts comme "Servant leadership".
