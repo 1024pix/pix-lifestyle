@@ -9,6 +9,7 @@
   * [Les produits](produit/produits.md)
 * [Organisation](organisation/README.md)
   * [Les équipes](organisation/equipes.md)
+  * [Le rôle de Lead](organisation/lead-equipe.md)
   * [Les rituels](organisation/rituels.md)
   * [Le télé-travail](organisation/teletravail.md)
 * [Recrutement](recrutement/README.md)
